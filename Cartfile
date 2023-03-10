@@ -1,0 +1,3 @@
+
+github "swisspol/GCDWebServer" ~> 3.2.5
+github "ccgus/fmdb"
